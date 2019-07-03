@@ -13,11 +13,17 @@ Each course is available at different dates. All applications must be saved in a
 - 1 or more participants. Each participant consists of the following: name, phone number and e-mail
 
 ## Expectations
-We expect you to create this signup flow using PHP and MySQL on the backend and HTML, CSS and JS on the frontend. You are free to use any frameworks and preprocessors you wish, as well as define a suitable database structure.
+We expect you to create this signup flow using PHP and MySQL on the backend and HTML, CSS and JS (if necessary) on the frontend. You are free to use any frameworks and preprocessors you wish, as well as define a suitable database structure.
 
 The finished work sample should have a readme describing how to get the application up and running.
 
-We expect you to host the code as a repository on Github under your own profile.
+## Delivery
+We want you to return your work to us in the following way:
+
+- **The code** hosted as a repository on Github under your own profile.
+- **A live demo** at a URL where we can view the finished application up and running
+
+When we meet we want you to show us the code and talk about why you've made choices regarding framework, data structure and how you approached the work.
 
 ## Resources
 Design is available in the design folder of this repository. The courses are available as json in the endpoints folder.

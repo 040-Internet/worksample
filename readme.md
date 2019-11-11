@@ -3,21 +3,19 @@
 ## What you’ll be doing
 You will be creating an application form for a fictitious school. This form will let our school accept applications from companies that want to attend their courses.
 
-Each course is available at different dates. All applications must be saved in a database and contains the following:
-
-- Course ID
-- Course date
-- Company name
-- Company phone number
-- Company e-mail
-- 1 or more participants. Each participant consists of the following: name, phone number and e-mail
-
 ## Expectations
 We expect you to create this signup flow using PHP and MySQL on the backend and HTML, CSS and JS (if necessary) on the frontend.
 
-You are free to use any frameworks and preprocessors you wish, as well as define a suitable database structure.
+You are free to use any frameworks and preprocessors as you wish.
+
+Define a suitable database structure with the following as minimum requirements:
+
+- Each course is available at different dates
+- All applications must be saved in a database
+- Each application must be able to have multiple participants
 
 The finished work sample should have a readme describing briefly:
+
 - How to get the application up and running
 - Any obstacles you've encountered
 - Things you'd do differently

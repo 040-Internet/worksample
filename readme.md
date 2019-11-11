@@ -29,7 +29,7 @@ We want you to return your work to us in the following way:
 When we meet we want you to show us the code and talk about why you've made choices regarding framework, data structure and how you approached the work.
 
 ## Resources
-Design is available in the design folder of this repository.
+Design is available in the design folder of this repository (use them as you see fit).
 
 The courses are available as json in the endpoints folder.
 

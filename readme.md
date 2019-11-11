@@ -33,7 +33,10 @@ Design is available in the design folder of this repository.
 
 The courses are available as json in the endpoints folder.
 
-The font is Source Sans Pro: https://fonts.google.com/specimen/Source+Sans+Pro
+The fonts used are:
+
+- **Roboto Mono:** https://fonts.google.com/specimen/Roboto+Mono
+- **Roboto Slab:** https://fonts.google.com/specimen/Roboto+Slab
 
 ## If you have time
 The following items are not required but if you have the time feel free to implement them. We will review these extras in the same way we review the base work sample.
